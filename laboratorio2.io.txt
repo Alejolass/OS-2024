@@ -1,3 +1,4 @@
+//Jairo Alejandro Lasso MIramag
 const int led = 13;
 const int ntcPin = 0;
 const int motor = 10;
